@@ -2,4 +2,4 @@ Introducao git e git hub
 plataforma que entra em comunicação trabalhando como uma só, com base na funcionalidade do github sendo
 como um centro de pesquisas para desenvolveddores, onde será possivel achar projetos finalizados e em andamento
 com a finalidade de ajudar a comunidade, e o git sendo a plataforma que usamos para separar e programar esses projetos,
-é usado como meio de transferencia do projeto criado para a plataforma de pesquisa
+é usado como meio de transferencia do projeto criado para a plataforma de pesquisa.
