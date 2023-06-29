@@ -1,0 +1,2 @@
+os comandos no git foi um primeiro contato no com os atalhos que utilizamos no linux em um geral, depois que você
+entende o que cada comando  significa, fica bastante intuitivo.

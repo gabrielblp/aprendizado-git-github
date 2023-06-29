@@ -1,0 +1,5 @@
+sobre o github, basta acessar o site e criar uma conta e você já tera acesso a plataforma, podendo copiar arquivos e
+subir seus repositorios bastante intuitivo, já o git você é um pouco mais complicado, porque você precisa ter
+uma afinidade com o terminal, independente de qual sistema operacional você está utilizando,
+mesmo os processos para o Linux sendo apenas 3 linhas, não consegui realizar de primeira, pois alguns comandos não 
+estava disponiveis no site, como verificar se já tinha o aplicativo instalado.

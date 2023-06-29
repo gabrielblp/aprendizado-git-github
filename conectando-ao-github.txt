@@ -1,0 +1,3 @@
+a parte de conexão foi tranquila, com uma unica condição que desde 2021 você  não sobe mais para o github usando
+o terminal do linux por http, você precisa usar o terminal do vscode, pois  ele já está  lincado a plataforma.
+mudança essa que foi pela seguranca, ao evitar que se coloque o  seu email e senha.

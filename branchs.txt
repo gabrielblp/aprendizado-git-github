@@ -1,0 +1,4 @@
+As Branchs são opções de repositorios para que consiga ser realizado um projeto em equipe, onde você faz as alterações
+sem alterar o projeto principal, assim caso alguem cometa algum erro durante o desenvolvimento, não afeta o projeto principal
+impedindo a sua execução, serve tbm para que seja feito a apresentação de novas elaborações de projetos sem que
+os desenvolvedores utilizem o mesmo codigo juntos.
